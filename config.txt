@@ -1,0 +1,4 @@
+0,0,600,400,/root/myuser/photo/messi.bmp #picrure;      #表示图片显示在x=200， y=0, w=600,h=400, 显示图片在当前pic目录里面
+610,0,190,160,0x3d4a5d00,0xffffff00 #time:      #表示时间显示x=0， y=0, w=200,h=120， 背景颜色为0xff0000（红色）字体颜色为0xffffff(白色)
+610,170,190,230,0xff7f5000,0xffffff00 #weather:       #表示天气显示x=0， y=120, w=200,h=280， 背景颜色为0xff0000（红色）字体颜色为0xffffff(白色)
+0,409,800,70,0xdc143c00,0xffffff00 #rolltext:       #表示滚动字体显示x=0， y=400, w=800,h=80， 背景颜色为0xff0000（红色）字体颜色为0xffffff(白色)
